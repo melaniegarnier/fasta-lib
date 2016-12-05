@@ -1,0 +1,11 @@
+{
+	"name": "fasta-lib",
+	"version": "0.1.0",
+	"author": {
+		"name": "Mélanie Garnier"
+	},
+	"description": "A library to parse and manipulate fasta files",
+	"dependencies": {
+		"byline": "^4.2.1"
+    }
+}
